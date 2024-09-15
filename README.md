@@ -5,6 +5,7 @@ A sleek and responsive stopwatch built using HTML, CSS, and JavaScript. This pro
 
 StopWatch
 ![image](https://github.com/user-attachments/assets/4b08fc81-a060-4109-bdeb-04070ca56c21)
+                                          StopWatch
 
 Start StopWatch
 ![image](https://github.com/user-attachments/assets/5852bfa5-2686-48f1-99c5-673066c5b151)
